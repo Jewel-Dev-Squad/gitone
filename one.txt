@@ -3,3 +3,5 @@ One is my first git & github testing text ONE ONE
 =======
 One is my first git & github testing text ONE 1
 >>>>>>> staging
+
+xyz
